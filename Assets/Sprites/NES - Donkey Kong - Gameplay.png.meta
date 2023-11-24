@@ -1,0 +1,1577 @@
+fileFormatVersion: 2
+guid: d3ecce2db9c5217408c7348ddac3f6d1
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 18
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NES - Donkey Kong - Gameplay_0
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 124
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 953d94a964e6f984993f865621b8e18a
+      internalID: -744381580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Donkey Kong - Gameplay_1
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 124
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82041c7e2d85c884087662153e7a9717
+      internalID: 1437268617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Donkey Kong - Gameplay_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 124
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c721f94b5fb4b479a7f662000cd150
+      internalID: 1800719992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Donkey Kong - Gameplay_3
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 124
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c66908e4235c0b4db2c72afc2359234
+      internalID: 958471268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Donkey Kong - Gameplay_4
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 124
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9029ebeab3de36d468ba8a0247b1c9ae
+      internalID: -1280246460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Donkey Kong - Gameplay_5
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 124
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd36b0e87a47ae949a4a00254b9c0c5e
+      internalID: -1371426726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Donkey Kong - Gameplay_6
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 124
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 737304e91321f744892c54721f521bb1
+      internalID: -1758532269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Donkey Kong - Gameplay_7
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 124
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35ad7cba7c476c94c84fcddd6cfdfc5a
+      internalID: 1660428234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Donkey Kong - Gameplay_8
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 124
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb0aba8d3a6b36d42a2efa8816d8c338
+      internalID: -604346394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Donkey Kong - Gameplay_9
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 124
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7739ae50bd0376468cfe5d1639624af
+      internalID: -404220940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Donkey Kong - Gameplay_10
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 124
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad2b69c1da921d64b9805e83b7d11742
+      internalID: -339477261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Donkey Kong - Gameplay_11
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 124
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 113a1f17ed253e94ea05323958c2fbb5
+      internalID: 2070049520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Donkey Kong - Gameplay_12
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 124
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d26057c2c2e48d046b98e914028f8146
+      internalID: -1885666549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Donkey Kong - Gameplay_13
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 127
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9ebdda1e133d8845a0e3fd8696a082b
+      internalID: 213413130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Donkey Kong - Gameplay_14
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 124
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e02e0c2cea1702140a01bd0a9926abd5
+      internalID: 1252239393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Donkey Kong - Gameplay_15
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 124
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 969d6279250898f40bd2a734ba7aee58
+      internalID: -1187774780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Donkey Kong - Gameplay_16
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 124
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5926c3e3e6f3694fb2000cf5cf471a8
+      internalID: -1523846842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Donkey Kong - Gameplay_17
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 124
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a49d8dc867628947826845635a3e61a
+      internalID: 1238984808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Donkey Kong - Gameplay_18
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 124
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7db36c31b5f4ff24bbce2d72989d90aa
+      internalID: 1419995718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Donkey Kong - Gameplay_19
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 124
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcc44632f47c7f34d85ec4a4be970b2a
+      internalID: -1192096138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Donkey Kong - Gameplay_20
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 124
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11c59e5d404f5ed49897b4628f92cd0e
+      internalID: 952683492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Donkey Kong - Gameplay_21
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 92
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d06aa652c6ecdd845ab7ca835033626d
+      internalID: -1536673455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Donkey Kong - Gameplay_22
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 92
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63a111b9e72bcd34bbfd162b50c607e5
+      internalID: -1144413766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Donkey Kong - Gameplay_23
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 94
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa94e96b840a05f40a597dc84a93c461
+      internalID: -2061044482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Donkey Kong - Gameplay_24
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 95
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91263a7598d11ec48b80bbf7663d7e16
+      internalID: 994589298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Donkey Kong - Gameplay_25
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 95
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8291425c11c45204db1275e6821f0095
+      internalID: -1442950352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Donkey Kong - Gameplay_26
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 95
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8edc8da5da557fe4baaee5fd31533971
+      internalID: -869601391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Donkey Kong - Gameplay_27
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 95
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64159f68058ef9c4bbeacd6a3fa92487
+      internalID: -269914710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Donkey Kong - Gameplay_28
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 95
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb330f9dfa3a7249b24340db64e7494
+      internalID: -946895780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Donkey Kong - Gameplay_29
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 95
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7587214c450b81546959085056a9ab83
+      internalID: 2014049412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Donkey Kong - Gameplay_30
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 92
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e5692a94581e743b7c8e2b96c8d773
+      internalID: -1548758244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Donkey Kong - Gameplay_31
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 92
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f30ad9cd07c40c643a889813c345de99
+      internalID: -1698326840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Donkey Kong - Gameplay_32
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 92
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15332010593f3f74088f095aea1e9eb1
+      internalID: -877003930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Donkey Kong - Gameplay_33
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 92
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c088ac4b640ae40ac3e89634e0eb51
+      internalID: 1058799317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Donkey Kong - Gameplay_34
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 92
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e95efd458a5bff74ea178b4f5b4d90f9
+      internalID: 208687021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Donkey Kong - Gameplay_35
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 92
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 934f9f5b5327df94d8cb6199e6f0f8df
+      internalID: 1171514903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Donkey Kong - Gameplay_36
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 92
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f76b8f82ca717ab4cbab762dae0b2b3d
+      internalID: -974993335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Donkey Kong - Gameplay_37
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 92
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dee0d1e315adcc4e99c4357369ca0ce
+      internalID: 1964414381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Donkey Kong - Gameplay_38
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 94
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f17434eccb7cbc840a0a216efb1abbb2
+      internalID: -1030153000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Donkey Kong - Gameplay_39
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 96
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d75c5c918d3e824089ac6599267ce8d
+      internalID: -302298224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Donkey Kong - Gameplay_40
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 98
+        width: 3
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceee55fb3aa4df74693e70122d2d9ba8
+      internalID: -633949613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Donkey Kong - Gameplay_41
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 96
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa371f7ee009a18489e529c26776b8dd
+      internalID: 608377506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Donkey Kong - Gameplay_42
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 96
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16e7218a7c6d10a4a8181d836eee3de3
+      internalID: -1087100690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Donkey Kong - Gameplay_43
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 92
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0368bb1ae7677dc4caaab5dc8397b2da
+      internalID: -2033333142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Donkey Kong - Gameplay_44
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 93
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a661f2cfee6de44b906a05cce5e0d57
+      internalID: -547007111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Donkey Kong - Gameplay_45
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 100
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20e3415cc92214443826f285543ef9ed
+      internalID: 2093146156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Donkey Kong - Gameplay_46
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 100
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 983f5d4cfc5669149a60120025c432a8
+      internalID: -1511329843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Donkey Kong - Gameplay_47
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 100
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc4016430afad64fbf062b08a983f96
+      internalID: -442127024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Donkey Kong - Gameplay_48
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 92
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d9e676549fa5d94985e50d577713430
+      internalID: -1326542024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Donkey Kong - Gameplay_49
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 36
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd3c83775cbe5ae46ab5ab5a3e8c6a92
+      internalID: -647336121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Donkey Kong - Gameplay_50
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 36
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b8e178bf94a1464784a27fc9eb1a5b0
+      internalID: -690514997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Donkey Kong - Gameplay_51
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 36
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90e05721a2861c94bb89d80617368b94
+      internalID: -2078731719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Donkey Kong - Gameplay_52
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 36
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46e34b7f3463b884388218c7b9bc5030
+      internalID: -1274851885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Donkey Kong - Gameplay_53
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 36
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3bf8f3c8a1471148bdab751f998c0b1
+      internalID: -1283844316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Donkey Kong - Gameplay_54
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 36
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be5af5e4cde87ef4f8ff2da9db47525a
+      internalID: -303417211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Donkey Kong - Gameplay_55
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 36
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c951ff89b69e5984b87b645d5e9eae4f
+      internalID: 1589650549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Donkey Kong - Gameplay_56
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 36
+        width: 46
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1976165f729fc014f835849de96224bb
+      internalID: -73428473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Donkey Kong - Gameplay_57
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 36
+        width: 47
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 050c8f9d61268aa49b2621962d1e0364
+      internalID: -188077607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Donkey Kong - Gameplay_58
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 5
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02cd0c678c92f9446a771f879c43c5da
+      internalID: -942698529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Donkey Kong - Gameplay_59
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 5
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb92849af98f0e84abaef110c247fa54
+      internalID: 450109374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Donkey Kong - Gameplay_60
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 5
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff6b6d6b3d193774d945c053cb136e41
+      internalID: -948582235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Donkey Kong - Gameplay_61
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 5
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 782197204da603e4c8b545dc8efaeafe
+      internalID: -1939502997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Donkey Kong - Gameplay_62
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 5
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cfb37dd300a1d8439b3d7b3168e1369
+      internalID: 1265839912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Donkey Kong - Gameplay_63
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 92
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc425140ab92a294fa19ab5623f8aca3
+      internalID: 954595007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Donkey Kong - Gameplay_64
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 92
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 612449f01275d0a4092de39df8acd637
+      internalID: 973134536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      NES - Donkey Kong - Gameplay_6: -1758532269
+      NES - Donkey Kong - Gameplay_8: -604346394
+      NES - Donkey Kong - Gameplay_40: -633949613
+      NES - Donkey Kong - Gameplay_61: -1939502997
+      NES - Donkey Kong - Gameplay_15: -1187774780
+      NES - Donkey Kong - Gameplay_53: -1283844316
+      NES - Donkey Kong - Gameplay_1: 1437268617
+      NES - Donkey Kong - Gameplay_7: 1660428234
+      NES - Donkey Kong - Gameplay_21: -1536673455
+      NES - Donkey Kong - Gameplay_18: 1419995718
+      NES - Donkey Kong - Gameplay_46: -1511329843
+      NES - Donkey Kong - Gameplay_11: 2070049520
+      NES - Donkey Kong - Gameplay_60: -948582235
+      NES - Donkey Kong - Gameplay_58: -942698529
+      NES - Donkey Kong - Gameplay_26: -869601391
+      NES - Donkey Kong - Gameplay_57: -188077607
+      NES - Donkey Kong - Gameplay_16: -1523846842
+      NES - Donkey Kong - Gameplay_29: 2014049412
+      NES - Donkey Kong - Gameplay_47: -442127024
+      NES - Donkey Kong - Gameplay_31: -1698326840
+      NES - Donkey Kong - Gameplay_12: -1885666549
+      NES - Donkey Kong - Gameplay_56: -73428473
+      NES - Donkey Kong - Gameplay_17: 1238984808
+      NES - Donkey Kong - Gameplay_37: 1964414381
+      NES - Donkey Kong - Gameplay_9: -404220940
+      NES - Donkey Kong - Gameplay_50: -690514997
+      NES - Donkey Kong - Gameplay_42: -1087100690
+      NES - Donkey Kong - Gameplay_39: -302298224
+      NES - Donkey Kong - Gameplay_24: 994589298
+      NES - Donkey Kong - Gameplay_48: -1326542024
+      NES - Donkey Kong - Gameplay_63: 954595007
+      NES - Donkey Kong - Gameplay_52: -1274851885
+      NES - Donkey Kong - Gameplay_38: -1030153000
+      NES - Donkey Kong - Gameplay_20: 952683492
+      NES - Donkey Kong - Gameplay_36: -974993335
+      NES - Donkey Kong - Gameplay_0: -744381580
+      NES - Donkey Kong - Gameplay_25: -1442950352
+      NES - Donkey Kong - Gameplay_44: -547007111
+      NES - Donkey Kong - Gameplay_32: -877003930
+      NES - Donkey Kong - Gameplay_28: -946895780
+      NES - Donkey Kong - Gameplay_45: 2093146156
+      NES - Donkey Kong - Gameplay_41: 608377506
+      NES - Donkey Kong - Gameplay_55: 1589650549
+      NES - Donkey Kong - Gameplay_2: 1800719992
+      NES - Donkey Kong - Gameplay_27: -269914710
+      NES - Donkey Kong - Gameplay_34: 208687021
+      NES - Donkey Kong - Gameplay_35: 1171514903
+      NES - Donkey Kong - Gameplay_13: 213413130
+      NES - Donkey Kong - Gameplay_33: 1058799317
+      NES - Donkey Kong - Gameplay_22: -1144413766
+      NES - Donkey Kong - Gameplay_49: -647336121
+      NES - Donkey Kong - Gameplay_64: 973134536
+      NES - Donkey Kong - Gameplay_30: -1548758244
+      NES - Donkey Kong - Gameplay_14: 1252239393
+      NES - Donkey Kong - Gameplay_4: -1280246460
+      NES - Donkey Kong - Gameplay_23: -2061044482
+      NES - Donkey Kong - Gameplay_3: 958471268
+      NES - Donkey Kong - Gameplay_19: -1192096138
+      NES - Donkey Kong - Gameplay_62: 1265839912
+      NES - Donkey Kong - Gameplay_10: -339477261
+      NES - Donkey Kong - Gameplay_51: -2078731719
+      NES - Donkey Kong - Gameplay_5: -1371426726
+      NES - Donkey Kong - Gameplay_43: -2033333142
+      NES - Donkey Kong - Gameplay_54: -303417211
+      NES - Donkey Kong - Gameplay_59: 450109374
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
